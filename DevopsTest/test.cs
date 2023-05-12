@@ -12,6 +12,7 @@ namespace DevopsTest
         static void Main(string[] args)
         {
             Console.WriteLine("테스트한다.");
+            Console.WriteLine("테스트한다.");
         }
     }
 }
